@@ -46,3 +46,10 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+# Personal Ignore
+.htaccess.back
+.htaccess.bk
+background.png
+index.html
+wp-content/
